@@ -1,20 +1,17 @@
-Tobias J Loggbok
-==================
+# 2024-08-27
 
-2024-08-27
--------------
 Jag har installerat VS Codium.
 
+```python
+print(2 + 2)  # addition
+print(2 - 2)  # subtraktion
+print(2 * 2)  # multiplikation
+print(2 / 2)  # division
+print(2 ** 2) # exponent
+print(2 % 2)  # modulus
+print(2 // 2) # heltalsdivision
 
-print(2 + 2) # addition
-print(2 - 2) # subtraktion
-print(2 * 2) # multiplikation
-print(2 / 2) # division
-print(2 ** 2)# exponent
-print (2 % 2)# modulus
-print (2 //2)# heltals division
-
-type(10) = class int
-type("råtta") = string
-type(True) = bool
-type(3.8) = float
+print(type(10))     # <class 'int'>
+print(type("råtta")) # <class 'str'>
+print(type(True))   # <class 'bool'>
+print(type(3.8))    # <class 'float'>
