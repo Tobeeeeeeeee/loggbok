@@ -1,4 +1,4 @@
-Tobias Johansen Loggbok
+Tobias J Loggbok
 ==================
 
 2024-08-27
